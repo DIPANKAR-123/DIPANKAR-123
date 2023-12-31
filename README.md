@@ -1,7 +1,7 @@
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=DIPANKAR-123.DIPANKAR-123" />
 <img align="left"  src="https://img.shields.io/github/last-commit/badges/shields" alt="last-commit" />
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Dipankar+Yadav;" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Dipankar+Yadav;Competitive Programmer;Full Stack Developer" />
 </h1>
 
 <h3 align="center">A passionate software developer from India </h3>
