@@ -17,7 +17,7 @@
 
 - 🌱 I’m currently learning **Node, React, Express, Databases, Data structures, Algorithms**
 
-- 🤝 I have experience with ** Competitive Programming , DSA, Frontend Development  and more**
+- 🤝 I have experience with **Competitive Programming , DSA, Frontend Development  and more**
 
 - 👨‍💻 All of my projects are available at{not maintained} [here](https://github.com/DIPANKAR-123)
 
