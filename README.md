@@ -19,7 +19,7 @@
 
 - 🤝 I have experience with **Competitive Programming , DSA, Frontend Development  and more**
 
-- 👨‍💻 All of my projects are available at{not maintained} [here](https://github.com/DIPANKAR-123)
+- 👨‍💻 All of my projects are available at [here](https://github.com/DIPANKAR-123)
 
 - 📝 I regularly Practicing code on Leetcode at [here](https://leetcode.com/DY-10/)
 
