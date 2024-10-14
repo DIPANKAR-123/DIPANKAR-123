@@ -13,7 +13,7 @@
 <h1 align="center">Hi 👋, I'm Dipankar Yadav</h1>
 <h3 align="center">Learning Full Stack Development 🚀 | Mastering DSA 💡 | Crafting Code in India 🇮🇳</h3>
 
-- 👋 I'm currently working as **Frontend Development Intern at Omni Practice, Affordamic , Ex-AIChefMaster**
+- 👋 I'm currently working as **Frontend Development Intern at Omni Practice , Ex-GoBananas, Affordamic, AIChefMaster,**
 
 - 🌱 I’m currently learning **Node, React, Express, Databases, Data structures, Algorithms**
 
